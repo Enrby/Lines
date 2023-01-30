@@ -7,6 +7,7 @@ public class Main {
     }
 
     public static void task1() {
+        // Задача из урока
         System.out.println("Задача 1");
         String phone = "920-060 77 88";
         phone = phone.replace("-", "");
